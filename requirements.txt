@@ -11,4 +11,4 @@ snscrape
 seaborn
 regex
 pickle-mixin
-math
+python-math
