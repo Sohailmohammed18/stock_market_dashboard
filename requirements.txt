@@ -9,7 +9,6 @@ plotly
 nltk
 snscrape
 seaborn
-itertools
 regex
 pickle
 math
