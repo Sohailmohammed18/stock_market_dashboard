@@ -1,6 +1,6 @@
 keras==2.7.0
 keras_nightly==2.5.0.dev2021032900
-matplotlib==3.3.2
+matplotlib
 nltk==3.5
 numpy==1.19.2
 pandas==1.1.3
