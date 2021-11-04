@@ -10,5 +10,5 @@ nltk
 snscrape
 seaborn
 regex
-pickle
+pickle-mixin
 math
