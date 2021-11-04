@@ -4,9 +4,7 @@ streamlit
 matplotlib
 pandas-datareader
 tensorflow
-keras
 plotly
 nltk
 snscrape
-regex
 pickle-mixin
