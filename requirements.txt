@@ -4,6 +4,7 @@ streamlit
 yfinance
 matplotlib
 pandas-datareader
+tensorflow
 keras
 plotly
 nltk
