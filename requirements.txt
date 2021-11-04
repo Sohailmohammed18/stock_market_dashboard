@@ -1,0 +1,14 @@
+pandas
+numpy
+streamlit
+yfinance
+matplotlib
+pandas-datareader
+keras
+plotly
+nltk
+snscrape
+seaborn
+itertools
+regex
+pickle
