@@ -7,9 +7,8 @@ Created on Wed Oct 27 16:33:12 2021
 import math
 import numpy as np
 import streamlit as st
-import yfinance as yf
+#import yfinance as yf
 import pandas as pd
-import numpy as np
 import matplotlib.pyplot as plt
 import pandas_datareader as data
 from keras.models import load_model
@@ -17,28 +16,18 @@ from plotly import graph_objs as go
 import plotly.express as px
 import nltk
 nltk.download('wordnet')
-
 import snscrape.modules.twitter as snstwitter
-import snscrape
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-import itertools
-
 import warnings
 from nltk.corpus import stopwords, wordnet
 nltk.download('stopwords')
 import re
 #from rake_nltk import Rake
 import pickle
-import streamlit as st
-import numpy as np
 from nltk.stem import WordNetLemmatizer
 
-import matplotlib.pyplot as plt
 # Warnings ignore 
 warnings.filterwarnings(action='ignore')
+
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
 
