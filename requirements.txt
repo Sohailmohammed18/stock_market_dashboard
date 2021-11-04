@@ -3,7 +3,7 @@ numpy
 streamlit
 matplotlib
 pandas-datareader
-tensorflow
+keras
 plotly
 nltk
 snscrape
