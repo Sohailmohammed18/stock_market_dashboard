@@ -1,7 +1,6 @@
 pandas
 numpy
 streamlit
-yfinance
 matplotlib
 pandas-datareader
 tensorflow
@@ -9,6 +8,5 @@ keras
 plotly
 nltk
 snscrape
-seaborn
 regex
 pickle-mixin
